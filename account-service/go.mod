@@ -1,0 +1,1 @@
+module "github.com/ernesto2108/helpnwn-service/account-service"
