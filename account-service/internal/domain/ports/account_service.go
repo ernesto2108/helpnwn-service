@@ -1,7 +1,7 @@
 package account_service
 
-func SignUp() {
+func (s AccountService) SignUp() {
 }
 
-func SingIn() {
+func (s AccountService) SingIn() {
 }

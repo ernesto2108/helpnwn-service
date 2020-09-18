@@ -895,70 +895,12 @@
       <change afterPath="$PROJECT_DIR$/../../go-basic/.idea/concurrencias-go.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../go-basic/concurrence/ciclos/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../go-basic/structs/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/application/auth/oauth_token.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/application/persistence/account_postgres_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/application/persistence/account_redis_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/domain/model/profile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/domain/model/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/domain/ports/account_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/domain/ports/account_service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/datasource/database_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/http/routes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/http/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/message/account_message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/request/account_request.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/utils/loggers/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/utils/loggers/logger_dev.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/utils/loggers/logger_prod.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internal/infrastructure/web/account_endpoint.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/account-postgres-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/application/persistence/business_postgres_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/domain/model/business.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/domain/ports/business_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/domain/ports/business_service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/datasource/database_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/http/routes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/http/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/message/business_message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/request/business_request.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/utils/loggers/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/utils/loggers/logger_dev.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/utils/loggers/logger_prod.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/internal/infrastructure/web/business_endpoint.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/script/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/script/business-postgres-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../business-service/script/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/application/persistence/user_postgres_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/domain/model/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/domain/ports/user_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/domain/ports/user_service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/datasource/database_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/http/routes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/http/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/message/user_message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/request/user_request.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/utils/loggers/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/utils/loggers/logger_dev.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/utils/loggers/logger_prod.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/web/user_endpoint.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/scripts/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/scripts/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-service/scripts/user-postgres-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/internal/application/persistence/user_postgres_service.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../helpnwn/src/base/App.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../helpnwn/src/components/container/MainContainer.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../helpnwn/src/components/header/Header.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../helpnwn/src/components/header/HeaderContainer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../helpnwn/src/scss/base/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../helpnwn/src/scss/base/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../helpnwn/src/scss/components/container/container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../helpnwn/src/scss/components/header/header.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../helpnwn/src/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../helpnwn/src/scss/pages/home.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../user-service/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../user-service/Makefile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../user-service/cmd/main.go" afterDir="false" />
@@ -978,6 +920,35 @@
       <change afterPath="$PROJECT_DIR$/../../user-service/resources/zap/properties_prod_logger.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../user-service/swagger.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../GouseApi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/application/persistence/account_postgres_repository.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/application/persistence/account_redis_repository.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/domain/model/profile.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/domain/model/profile.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/domain/model/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/domain/model/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/domain/ports/account_repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/domain/ports/account_repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/domain/ports/account_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/domain/ports/account_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/datasource/database_config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/datasource/database_config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/http/routes.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/http/routes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/http/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/http/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/utils/loggers/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/utils/loggers/logger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/infrastructure/web/account_endpoint.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/infrastructure/web/account_endpoint.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/cmd/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/application/persistence/user_postgres_repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/application/persistence/user_postgres_repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/domain/model/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/domain/model/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/domain/ports/user_repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/domain/ports/user_repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/domain/ports/user_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/domain/ports/user_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/infrastructure/datasource/database_config.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/datasource/database_config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/infrastructure/http/routes.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/http/routes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/infrastructure/http/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/http/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/internal/infrastructure/web/user_endpoint.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/internal/infrastructure/web/user_endpoint.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/scripts/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/scripts/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -993,7 +964,7 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -1015,7 +986,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1058,5 +1031,17 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="448" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1599324761054" />
+    <state x="184" y="29" key="SettingsEditor" timestamp="1600013800573">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1600013800573" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1600269477725">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600269477725" />
+    <state x="0" y="0" width="585" height="768" key="find.popup" timestamp="1599588267671">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="585" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1599588267671" />
   </component>
 </project>
